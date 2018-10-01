@@ -1,2 +1,11 @@
-# faster-child
-example for minimal faster child theme
+
+# Faster
+===
+
+
+## Getting Started
+---------------
+
+Just run `npm install` and you're good to go.
+
+Enjoy!
